@@ -1,1 +1,1 @@
-https://cloud.docker.com/u/alexandergavrilyuk/repository/docker/alexandergavrilyuk/hw_13
+https://hub.docker.com/r/alexandergavrilyuk/hw_13
